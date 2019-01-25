@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SAARC Country</string>
+    <string-array name="countrName">
+        <item>Afganistan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>India</item>
+        <item>Maldives</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>SriL anka</item>
+    </string-array>
+
+    <string-array name="countryDetails">
+        <item>Afghanistan is a nice country. Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located within South Asia. Afghanistan is bordered by Pakistan in the south and east; Iran in the west; Turkmenistan, Uzbekistan, and Tajikistan in the north; and in the far northeast, China</item>
+        <item>Bangladesh is a beautyful country.Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.</item>
+        <item>Bhutan is a cool country. Bhutan, a Buddhist kingdom on the Himalayas’ eastern edge, is known for its monasteries, fortresses (or dzongs) and dramatic landscapes that range from subtropical plains to steep mountains and valleys. In the High Himalayas, peaks such as 7,326m Jomolhari are popular trekking destinations. Paro Taktsang monastery (also known as Tiger’s Nest) clings to cliffs above the forested Paro Valley.</item>
+        <item>India is a big country. India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex and massive Jama Masjid mosque, plus Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga centre and base for Himalayan trekking.</item>
+        <item>Maldives is the most beautiful country. The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It’s known for its beaches, blue lagoons and extensive reefs. The capital, Malé, has a busy fish market, restaurants and shops on the main road, Majeedhee Magu, and 17th-century Hukuru Miskiy (also known as Friday Mosque) made of carved white coral.</item>
+        <item>Pakistan is islamic country. Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the sixth-most populous country with a population exceeding 212,742,631 people. In area, it is the 33rd-largest country, spanning 881,913 square kilometres.</item>
+        <item>Nepal is a tourist attraction. Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is located mainly in the Himalayas but also includes parts of the Indo-Gangetic Plain. With an estimated population of 26.4 million, it is 48th largest country by population and 93rd largest country by area.</item>
+        <item>Srilanka is a island country. Sri Lanka (formerly Ceylon) is an island nation south of India in the Indian Ocean. Its diverse landscapes range from rainforest and arid plains to highlands and sandy beaches. It’s famed for its ancient Buddhist ruins, including the 5th-century citadel Sigiriya, with its palace and frescoes. The city of Anuradhapura, Sri Lanka's ancient capital, has many ruins dating back more than 2,000 years.</item>
+    </string-array>
+</resources>
